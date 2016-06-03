@@ -1,0 +1,82 @@
+C:\Users\Kaustav\documents\visual studio 2013\Projects\First Traveller\First Traveller\Bin\Release\First Traveller.dll
+C:\Users\Kaustav\documents\visual studio 2013\Projects\First Traveller\First Traveller\Bin\Release\First Traveller.pdb
+C:\Users\Kaustav\documents\visual studio 2013\Projects\First Traveller\First Traveller\Bin\Release\AppManifest.xaml
+C:\Users\Kaustav\documents\visual studio 2013\Projects\First Traveller\First Traveller\Bin\Release\Properties\WMAppManifest.xml
+C:\Users\Kaustav\documents\visual studio 2013\Projects\First Traveller\First Traveller\Bin\Release\First_Traveller_Release_AnyCPU.xap
+C:\Users\Kaustav\documents\visual studio 2013\Projects\First Traveller\First Traveller\Bin\Release\JeffWilcox.PhoneThemeManager.dll
+C:\Users\Kaustav\documents\visual studio 2013\Projects\First Traveller\First Traveller\Bin\Release\Microsoft.Phone.Controls.Toolkit.dll
+C:\Users\Kaustav\documents\visual studio 2013\Projects\First Traveller\First Traveller\Bin\Release\Newtonsoft.Json.dll
+C:\Users\Kaustav\documents\visual studio 2013\Projects\First Traveller\First Traveller\Bin\Release\System.Net.Http.dll
+C:\Users\Kaustav\documents\visual studio 2013\Projects\First Traveller\First Traveller\Bin\Release\System.Net.Http.Extensions.dll
+C:\Users\Kaustav\documents\visual studio 2013\Projects\First Traveller\First Traveller\Bin\Release\System.Net.Http.Primitives.dll
+C:\Users\Kaustav\documents\visual studio 2013\Projects\First Traveller\First Traveller\Bin\Release\JeffWilcox.PhoneThemeManager.pdb
+C:\Users\Kaustav\documents\visual studio 2013\Projects\First Traveller\First Traveller\Bin\Release\Newtonsoft.Json.xml
+C:\Users\Kaustav\documents\visual studio 2013\Projects\First Traveller\First Traveller\Bin\Release\System.Net.Http.xml
+C:\Users\Kaustav\documents\visual studio 2013\Projects\First Traveller\First Traveller\Bin\Release\System.Net.Http.Extensions.xml
+C:\Users\Kaustav\documents\visual studio 2013\Projects\First Traveller\First Traveller\Bin\Release\System.Net.Http.Primitives.xml
+C:\Users\Kaustav\documents\visual studio 2013\Projects\First Traveller\First Traveller\Bin\Release\ar-SA\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Kaustav\documents\visual studio 2013\Projects\First Traveller\First Traveller\Bin\Release\az-Latn-AZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Kaustav\documents\visual studio 2013\Projects\First Traveller\First Traveller\Bin\Release\be-BY\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Kaustav\documents\visual studio 2013\Projects\First Traveller\First Traveller\Bin\Release\bg-BG\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Kaustav\documents\visual studio 2013\Projects\First Traveller\First Traveller\Bin\Release\ca-ES\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Kaustav\documents\visual studio 2013\Projects\First Traveller\First Traveller\Bin\Release\cs-CZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Kaustav\documents\visual studio 2013\Projects\First Traveller\First Traveller\Bin\Release\da-DK\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Kaustav\documents\visual studio 2013\Projects\First Traveller\First Traveller\Bin\Release\de-DE\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Kaustav\documents\visual studio 2013\Projects\First Traveller\First Traveller\Bin\Release\el-GR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Kaustav\documents\visual studio 2013\Projects\First Traveller\First Traveller\Bin\Release\en-GB\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Kaustav\documents\visual studio 2013\Projects\First Traveller\First Traveller\Bin\Release\es-ES\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Kaustav\documents\visual studio 2013\Projects\First Traveller\First Traveller\Bin\Release\es-MX\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Kaustav\documents\visual studio 2013\Projects\First Traveller\First Traveller\Bin\Release\et-EE\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Kaustav\documents\visual studio 2013\Projects\First Traveller\First Traveller\Bin\Release\fa-IR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Kaustav\documents\visual studio 2013\Projects\First Traveller\First Traveller\Bin\Release\fi-FI\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Kaustav\documents\visual studio 2013\Projects\First Traveller\First Traveller\Bin\Release\fil-PH\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Kaustav\documents\visual studio 2013\Projects\First Traveller\First Traveller\Bin\Release\fr-CA\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Kaustav\documents\visual studio 2013\Projects\First Traveller\First Traveller\Bin\Release\fr-FR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Kaustav\documents\visual studio 2013\Projects\First Traveller\First Traveller\Bin\Release\he-IL\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Kaustav\documents\visual studio 2013\Projects\First Traveller\First Traveller\Bin\Release\hi-IN\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Kaustav\documents\visual studio 2013\Projects\First Traveller\First Traveller\Bin\Release\hr-HR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Kaustav\documents\visual studio 2013\Projects\First Traveller\First Traveller\Bin\Release\hu-HU\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Kaustav\documents\visual studio 2013\Projects\First Traveller\First Traveller\Bin\Release\id-ID\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Kaustav\documents\visual studio 2013\Projects\First Traveller\First Traveller\Bin\Release\it-IT\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Kaustav\documents\visual studio 2013\Projects\First Traveller\First Traveller\Bin\Release\ja-JP\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Kaustav\documents\visual studio 2013\Projects\First Traveller\First Traveller\Bin\Release\kk-KZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Kaustav\documents\visual studio 2013\Projects\First Traveller\First Traveller\Bin\Release\ko-KR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Kaustav\documents\visual studio 2013\Projects\First Traveller\First Traveller\Bin\Release\lt-LT\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Kaustav\documents\visual studio 2013\Projects\First Traveller\First Traveller\Bin\Release\lv-LV\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Kaustav\documents\visual studio 2013\Projects\First Traveller\First Traveller\Bin\Release\mk-MK\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Kaustav\documents\visual studio 2013\Projects\First Traveller\First Traveller\Bin\Release\ms-MY\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Kaustav\documents\visual studio 2013\Projects\First Traveller\First Traveller\Bin\Release\nb-NO\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Kaustav\documents\visual studio 2013\Projects\First Traveller\First Traveller\Bin\Release\nl-NL\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Kaustav\documents\visual studio 2013\Projects\First Traveller\First Traveller\Bin\Release\pl-PL\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Kaustav\documents\visual studio 2013\Projects\First Traveller\First Traveller\Bin\Release\pt-BR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Kaustav\documents\visual studio 2013\Projects\First Traveller\First Traveller\Bin\Release\pt-PT\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Kaustav\documents\visual studio 2013\Projects\First Traveller\First Traveller\Bin\Release\ro-RO\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Kaustav\documents\visual studio 2013\Projects\First Traveller\First Traveller\Bin\Release\ru-RU\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Kaustav\documents\visual studio 2013\Projects\First Traveller\First Traveller\Bin\Release\sk-SK\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Kaustav\documents\visual studio 2013\Projects\First Traveller\First Traveller\Bin\Release\sl-SI\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Kaustav\documents\visual studio 2013\Projects\First Traveller\First Traveller\Bin\Release\sq-AL\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Kaustav\documents\visual studio 2013\Projects\First Traveller\First Traveller\Bin\Release\sr-Latn-CS\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Kaustav\documents\visual studio 2013\Projects\First Traveller\First Traveller\Bin\Release\sv-SE\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Kaustav\documents\visual studio 2013\Projects\First Traveller\First Traveller\Bin\Release\th-TH\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Kaustav\documents\visual studio 2013\Projects\First Traveller\First Traveller\Bin\Release\tr-TR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Kaustav\documents\visual studio 2013\Projects\First Traveller\First Traveller\Bin\Release\uk-UA\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Kaustav\documents\visual studio 2013\Projects\First Traveller\First Traveller\Bin\Release\uz-Latn-UZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Kaustav\documents\visual studio 2013\Projects\First Traveller\First Traveller\Bin\Release\vi-VN\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Kaustav\documents\visual studio 2013\Projects\First Traveller\First Traveller\Bin\Release\zh-CN\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Kaustav\documents\visual studio 2013\Projects\First Traveller\First Traveller\Bin\Release\zh-TW\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Kaustav\documents\visual studio 2013\Projects\First Traveller\First Traveller\obj\Release\First Traveller.csprojResolveAssemblyReference.cache
+C:\Users\Kaustav\documents\visual studio 2013\Projects\First Traveller\First Traveller\obj\Release\App.g.cs
+C:\Users\Kaustav\documents\visual studio 2013\Projects\First Traveller\First Traveller\obj\Release\MainPage.g.cs
+C:\Users\Kaustav\documents\visual studio 2013\Projects\First Traveller\First Traveller\obj\Release\OtherPages\SettingsPage.g.cs
+C:\Users\Kaustav\documents\visual studio 2013\Projects\First Traveller\First Traveller\obj\Release\Places\DetailsPage.g.cs
+C:\Users\Kaustav\documents\visual studio 2013\Projects\First Traveller\First Traveller\obj\Release\Places\ResultPage.g.cs
+C:\Users\Kaustav\documents\visual studio 2013\Projects\First Traveller\First Traveller\obj\Release\First Traveller.g.resources
+C:\Users\Kaustav\documents\visual studio 2013\Projects\First Traveller\First Traveller\obj\Release\First_Traveller.Resources.AppResources.resources
+C:\Users\Kaustav\documents\visual studio 2013\Projects\First Traveller\First Traveller\obj\Release\First Traveller.csproj.GenerateResource.Cache
+C:\Users\Kaustav\documents\visual studio 2013\Projects\First Traveller\First Traveller\obj\Release\First Traveller.dll
+C:\Users\Kaustav\documents\visual studio 2013\Projects\First Traveller\First Traveller\obj\Release\First Traveller.pdb
+C:\Users\Kaustav\documents\visual studio 2013\Projects\First Traveller\First Traveller\obj\Release\XapCacheFile.xml
+C:\Users\Kaustav\documents\visual studio 2013\Projects\First Traveller\First Traveller\obj\Release\OtherPages\HelpPage.g.cs
+C:\Users\Kaustav\documents\visual studio 2013\Projects\First Traveller\First Traveller\obj\Release\OtherPages\AboutPage.g.cs
+C:\Users\Kaustav\documents\visual studio 2013\Projects\First Traveller\First Traveller\obj\Release\Places\CurrentLocationPage.g.cs
+C:\Users\Kaustav\documents\visual studio 2013\Projects\First Traveller\First Traveller\obj\Release\Places\CustomLocationPage.g.cs
